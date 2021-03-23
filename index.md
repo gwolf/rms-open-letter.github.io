@@ -110,6 +110,7 @@ Signed,
 - Geir Magnusson Jr.
 - Geoffrey Thomas
 - Greg Grossmeier
+- Gunnar Wolf (Debian Developer, Debian Technical Committee member)
 - Halla Rempt (maintainer of Krita)
 - Hayden Seay
 - Haze Booth
